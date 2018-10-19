@@ -1,0 +1,1 @@
+open_basedir="E:\WWW\test\public\;C:\Users\Administrator\Desktop\UPUPW_NP7.2_64\Guard\;C:\Users\Administrator\Desktop\UPUPW_NP7.2_64\phpmyadmin\;C:\Users\Administrator\Desktop\UPUPW_NP7.2_64\temp\;C:\windows\Temp\"
